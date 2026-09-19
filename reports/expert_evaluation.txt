@@ -1,0 +1,16 @@
+Expert Evaluation 
+
+Ubantu Server was deployed in a VirtualBox virtual machine.
+
+Git was installed and configured in Linux. the project was created locally and uploaded to a GitHub repository using Bash and Git command.
+
+The source code was analyzed using the bandit static security scanner. NO security issues were identified. The number of Low, Medium,and High severity findings was zero.
+
+The scan results were saved in JSoN format and additionally presented as a csv dataset.
+  
+The absence of detected vulnerabilities does not guarantee complete application security. For real projects, dependency analysis, secret scanning, dynamic testing, and repeated security scans are recommended.
+
+
+Conclusion:
+The task was completed Successfully. The project was uploaded to GitHub, the source code was analyzed for security issues, and the result were presented in a structured format.
+

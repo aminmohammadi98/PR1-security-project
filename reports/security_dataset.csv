@@ -1,0 +1,4 @@
+scanner, target, status, severity, findings, comment 
+Git, Repository, Success, Info, Project successfully uploaded to GitHub
+Bandit, app.py, Scaned, None,0,No security issues identified
+
